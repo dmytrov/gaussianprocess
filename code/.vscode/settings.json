@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.fontFamily": "'Liberation Mono', 'Noto Mono', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+    "editor.cursorBlinking": "solid",
+    "editor.rulers": [
+        79,
+        120
+    ],
+    "files.exclude": {
+    "**/*.pyc": true,
+    "**/*.pyo": true,
+    "**/*.pkl": true,
+    "**/*.dat": true,
+    "**/*.sln": true,
+    "**/*.pyproj": true,
+    "**/__pycache__": true
+    },
+    "python.pythonPath": "/usr/bin/python"
+}

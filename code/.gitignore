@@ -1,0 +1,8 @@
+.idea
+tags
+.settings
+**/__pycache__
+*.dat
+*.txt
+*.pyo
+**/*.skeleton
